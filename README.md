@@ -1,1 +1,1 @@
-# ai-underpriveleged-tutor
+# ai-underprivileged-tutor
